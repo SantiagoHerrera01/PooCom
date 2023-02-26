@@ -1,0 +1,56 @@
+.fondo{
+    background-image: url(/Programacion/poo/img/fondo.avif);
+    
+}
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.button{
+    color: black;
+    background:linear-gradient(black,aqua,black) ;
+    border-radius: 50%;
+    border: aqua solid;    
+    width: 100px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+  
+
+.nav{
+    background-image: url(/Programacion/poo/img/fondo2.jfif);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    color: blueviolet;
+    border: solid;
+}
+
+
+
+.perros{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: black solid 2px;  
+}
+
+
+
+.letra{
+    background-color: #fff;
+    border: solid;
+}
